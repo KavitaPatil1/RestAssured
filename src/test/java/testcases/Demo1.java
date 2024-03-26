@@ -14,6 +14,7 @@ public class Demo1 {
 		
 		
 		System.out.println("i am demo 1");
+		System.out.println("i am m2 method");
 
 	}
 
